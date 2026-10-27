@@ -1,0 +1,11 @@
+Senior AI Engineer - TechNova Solutions
+
+We are looking for a Senior AI Engineer to build LLM-powered products. You will design agent workflows with LangGraph, build REST APIs with FastAPI, and deploy services on AWS.
+
+Requirements:
+- 4+ years of experience in software engineering, with 2+ years in machine learning or NLP
+- Strong Python skills
+- Hands-on experience with LangGraph or LangChain
+- Experience building APIs with FastAPI
+- Knowledge of Docker, Git and SQL
+- Good communication skills and ability to work in a team
